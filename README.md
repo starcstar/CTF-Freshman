@@ -5,4 +5,4 @@
 <br>
 负责人：c10uds
 <br>
-pdf: [第二周讲义](./week2/Linux.pptx)
+pdf: [第二周讲义](./week2/Linux.pdf)
